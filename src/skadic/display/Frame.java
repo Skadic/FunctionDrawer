@@ -1,4 +1,4 @@
-package skadic.Display;
+package skadic.display;
 
 import javax.swing.*;
 import java.awt.*;

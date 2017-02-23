@@ -1,12 +1,9 @@
-package skadic.Display;
-
-import javafx.scene.paint.*;
+package skadic.display;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.Color;
 import java.awt.event.ActionEvent;
-import java.text.DecimalFormat;
 import java.util.function.Function;
 
 /**

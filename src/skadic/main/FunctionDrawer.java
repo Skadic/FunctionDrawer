@@ -1,6 +1,6 @@
 package skadic.main;
 
-import skadic.Display.Frame;
+import skadic.display.Frame;
 import skadic.math.Evaluation;
 
 import java.text.MessageFormat;
