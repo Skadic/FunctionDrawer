@@ -2,6 +2,8 @@ package skadic.math;
 
 
 public class Evaluation {
+    //http://stackoverflow.com/a/26227947
+    //eval() function by Boann
     public static double eval(final String str) {
         return new Object() {
             int pos = -1, ch;
